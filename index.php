@@ -11,7 +11,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>This is a Test</h1>
+	<a href="view/form.php">Click Here To Insert A Form</a>
 </body>
 </html>
 	
